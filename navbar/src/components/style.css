@@ -1,0 +1,42 @@
+.maindiv{
+    display: flex;;
+    border:2px solid rgb(136, 125, 125);
+    justify-content: space-around;
+    height: 60px;
+    background-color: rgb(72, 66, 66);;
+    color:white;
+}
+.btn{
+    border-radius:14px;
+    border:none;
+    color:white;
+    font-size: 20px;;
+    background-color: blue;
+    padding: 15px;;
+    padding-top: 10px;
+    width:132px;;
+    text-align: center;
+    height:70%;
+    margin-top:8px;
+
+}
+.middle{
+    display: flex;
+    width: 300px;;
+    justify-content: space-between;
+}
+.btnbox{
+    margin-top:10px;;
+}
+.Logo{
+   height: 80%;
+   
+   margin-top:10px;
+   
+    
+}
+.title{
+    text-align:center;
+    color:rgb(177, 234, 249);
+    margin:auto;
+}
